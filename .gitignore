@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+# Large source design files
+*.eps
+# Exclude oversized asset
+platform/EPS/Props.eps
